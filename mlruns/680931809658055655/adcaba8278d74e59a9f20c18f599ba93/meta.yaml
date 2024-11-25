@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/680931809658055655/adcaba8278d74e59a9f20c18f599ba93/artifacts
+end_time: 1732572499039
+entry_point_name: ''
+experiment_id: '680931809658055655'
+lifecycle_stage: active
+run_id: adcaba8278d74e59a9f20c18f599ba93
+run_name: best_model_summary_training_run_20241126_000759
+run_uuid: adcaba8278d74e59a9f20c18f599ba93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732572498945
+status: 3
+tags: []
+user_id: sirajussalekin
