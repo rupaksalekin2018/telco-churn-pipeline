@@ -1,0 +1,22 @@
+[ 2024-11-25 23:21:29,337 ] 25 root - INFO - Data Ingesion has been started
+[ 2024-11-25 23:21:29,337 ] 27 root - INFO - Data reading using Pandas from local file system
+[ 2024-11-25 23:21:29,351 ] 29 root - INFO - Data Reading has been completed
+[ 2024-11-25 23:21:29,376 ] 33 root - INFO - Raw data has been stored
+[ 2024-11-25 23:21:29,380 ] 36 root - INFO - Raw data has been splitted into Train and Test set
+[ 2024-11-25 23:21:29,402 ] 41 root - INFO - Data Ingestion has been completed!
+[ 2024-11-25 23:21:29,403 ] 49 root - INFO - Created feature store configuration at /Users/sirajussalekin/Desktop/MLOps_projects/telco-churn-pipeline/feature_repo/feature_store.yaml
+[ 2024-11-25 23:21:29,403 ] 53 root - INFO - Configuration file content:
+project: income_prediction
+provider: local
+registry: data/registry.db
+online_store:
+  type: sqlite
+offline_store:
+  type: file
+entity_key_serialization_version: 2
+[ 2024-11-25 23:21:32,284 ] 230 feast.infra.registry.registry - INFO - Registry file not found. Creating new registry.
+[ 2024-11-25 23:21:32,287 ] 57 root - INFO - Feature store initialized successfully
+[ 2024-11-25 23:21:32,300 ] 105 root - INFO - Data loaded successfully.
+[ 2024-11-25 23:21:32,302 ] 66 root - INFO - Data Transformation: Setting up pipelines.
+[ 2024-11-25 23:21:32,305 ] 120 root - INFO - Applying preprocessing object.
+[ 2024-11-25 23:21:32,332 ] 133 root - INFO - Preprocessing object saved.

@@ -1,0 +1,10 @@
+[ 2024-11-25 22:54:00,064 ] 25 root - INFO - Data Ingesion has been started
+[ 2024-11-25 22:54:00,064 ] 27 root - INFO - Data reading using Pandas from local file system
+[ 2024-11-25 22:54:00,083 ] 29 root - INFO - Data Reading has been completed
+[ 2024-11-25 22:54:00,113 ] 33 root - INFO - Raw data has been stored
+[ 2024-11-25 22:54:00,116 ] 36 root - INFO - Raw data has been splitted into Train and Test set
+[ 2024-11-25 22:54:00,140 ] 41 root - INFO - Data Ingestion has been completed!
+[ 2024-11-25 22:54:00,152 ] 65 root - INFO - Data loaded successfully.
+[ 2024-11-25 22:54:00,153 ] 26 root - INFO - Data Transformation: Setting up pipelines.
+[ 2024-11-25 22:54:00,156 ] 80 root - INFO - Applying preprocessing object.
+[ 2024-11-25 22:54:00,183 ] 93 root - INFO - Preprocessing object saved.
