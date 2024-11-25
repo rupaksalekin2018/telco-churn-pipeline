@@ -1,0 +1,10 @@
+[ 2024-11-26 00:59:25,248 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[ 2024-11-26 00:59:25,248 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2024-11-26 00:59:25,249 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2024-11-26 00:59:25,543 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-26 00:59:25,553 ] 97 werkzeug - INFO -  * Debugger PIN: 727-207-244
+[ 2024-11-26 01:00:09,459 ] 97 werkzeug - INFO -  * Detected change in '/Users/sirajussalekin/Desktop/MLOps_projects/telco-churn-pipeline/app.py', reloading
+[ 2024-11-26 01:00:09,525 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2024-11-26 01:01:25,875 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2024-11-26 01:02:51,896 ] 97 werkzeug - INFO -  * Restarting with stat

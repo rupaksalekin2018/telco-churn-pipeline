@@ -1,0 +1,4 @@
+[ 2024-11-26 01:00:09,973 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-26 01:00:09,979 ] 97 werkzeug - INFO -  * Debugger PIN: 727-207-244
+[ 2024-11-26 01:01:16,923 ] 97 werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:01:16] "POST /predict HTTP/1.1" 200 -
+[ 2024-11-26 01:01:25,764 ] 97 werkzeug - INFO -  * Detected change in '/Users/sirajussalekin/Desktop/MLOps_projects/telco-churn-pipeline/app.py', reloading
