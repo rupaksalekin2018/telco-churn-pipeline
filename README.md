@@ -25,3 +25,6 @@ The solution will provide insights into factors contributing to customer churn a
 The dataset contains various features related to customer information, usage behavior, and service details. Here is a representation of the dataset features:
 
 ![](001.png)
+
+**Technologies are used**
+DVC ( Data Versioning), Feature Store (Feature Maintainance), MLflow (ML tracking), Scikit Learn, Flask (API management)
